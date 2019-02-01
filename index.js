@@ -3,7 +3,6 @@
 //
 // customerName.toUpperCase();
 
-function customerName () {
-return = 'bob'
+var customerName = 'bob'
   // return myFunc;
 }
