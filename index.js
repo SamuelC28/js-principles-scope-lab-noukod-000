@@ -4,4 +4,4 @@
 // customerName.toUpperCase();
 
  customerName = 'bob'
-  customerName.toUpperCase();
+  var customerName.toUpperCase();
