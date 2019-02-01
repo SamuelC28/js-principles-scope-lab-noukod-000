@@ -14,5 +14,5 @@ function setBestCustomer() {
 }
 
 function overwriteBestCustomer(bestCustom) {
- bestCustomer = bestCustom);
+ bestCustomer = bestCustom;
 }
