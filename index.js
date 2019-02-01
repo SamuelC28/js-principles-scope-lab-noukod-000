@@ -1,4 +1,4 @@
 // Write your solution in this file!
-function ame() {
+function name() {
    var customerName = 'bob';
  }
