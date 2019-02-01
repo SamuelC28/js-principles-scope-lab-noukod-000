@@ -5,5 +5,5 @@
 
 function myFunc () {
  var customerName = 'bob'
-  return customerName;
+  return myFunc;
 }
