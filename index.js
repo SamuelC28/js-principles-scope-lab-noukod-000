@@ -3,8 +3,8 @@
 //
 // customerName.toUpperCase();
 
-var customerName = 'bob'
-
+var customerName = 'bob';
+ 
 
 if customerName {
   customerName.toUpperCase;
