@@ -6,7 +6,5 @@
 // var customerName = 'bob'
 //  customerName.toUpperCase();
 
-function customerName() {
-  return 'bob';
-}
+s
 var upper = customerName.toUpperCase();
