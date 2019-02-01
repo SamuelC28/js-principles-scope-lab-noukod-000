@@ -3,4 +3,4 @@ var customerName = 'bob';
 
 var customerName.toUpperCase();
 
-String.toUpperCase(customerName);
+
