@@ -6,6 +6,6 @@
 var customerName = 'bob';
 
 
-// if customerName {
-//   customerName.toUpperCase;
-// }
+if (customerName == true) {
+  customerName.toUpperCase;
+}
