@@ -2,3 +2,4 @@
 function customerName() {
    return 'bob';
  }
+var customerName = 'bob';
