@@ -14,5 +14,5 @@ function setBestCustomer() {
 }
 
 function overwriteBestCustomer() {
-var  bestCustomer ="maybe" ${customerName};
+var  bestCustomer ="maybe" + customerName;
 }
