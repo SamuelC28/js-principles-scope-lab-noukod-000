@@ -3,5 +3,5 @@
 //
 // customerName.toUpperCase();
 
- customerName = 'bob'
-  var customerName.toUpperCase();
+var customerName = 'bob'
+ customerName.toUpperCase();
