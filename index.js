@@ -4,7 +4,7 @@
 // customerName.toUpperCase();
 
 var customerName = 'bob'
- 
+
 
 if customerName {
   customerName.toUpperCase;
