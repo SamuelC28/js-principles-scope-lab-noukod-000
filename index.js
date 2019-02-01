@@ -2,5 +2,3 @@
 var customerName = 'bob';
 
 var customerName.toUpperCase();
-
-
