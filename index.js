@@ -1,4 +1,4 @@
 // Write your solution in this file!
 function customerName() {
-   var name = 'bob'
+   var name = 'bob';
  }
